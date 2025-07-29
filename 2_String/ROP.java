@@ -1,4 +1,4 @@
-class Solution {
+class ROP {
     public String removeOuterParentheses(String s) {
         StringBuilder result = new StringBuilder();
         int depth = 0;
