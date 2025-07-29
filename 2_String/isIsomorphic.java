@@ -1,4 +1,4 @@
-class isIsomorphic {
+public class isIsomorphic {
     public boolean isIsomorphic(String s, String t) {
         if (s.length() != t.length()) return false;
 
